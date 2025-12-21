@@ -1,3 +1,2 @@
-Esta app esta desarrollada con una arquitectura en capas, utilizando el paradigma de programación orientado a objetos,
-y realizando una conexión hacia una base de datos SQL.
-Contiene manejo de excepciones y validaciones.
+This app is developed with a layered architecture, using the object-oriented programming paradigm, and connects to an SQL database. It includes exception handling and validation.
+
